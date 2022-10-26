@@ -1,6 +1,6 @@
 {
   "name": "@wesjet/jet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript Client library | Wesbitty",
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",

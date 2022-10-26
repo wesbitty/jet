@@ -15,7 +15,7 @@
           "dist/module/version.js",
           "dist/module/version.d.ts"
         ],
-        "placeholder": "0.0.1-alpha"
+        "placeholder": "0.0.0.auto"
       }
     ],
     "@semantic-release/commit-analyzer",
