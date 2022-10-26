@@ -1,7 +1,7 @@
 {
   "name": "@wesjet/jet",
   "version": "0.0.1",
-  "description": "Javascript Client library",
+  "description": "Javascript Client library | Wesbitty",
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",
   "types": "dist/module/index.d.ts",
